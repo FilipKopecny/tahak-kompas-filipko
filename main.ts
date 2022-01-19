@@ -94,7 +94,7 @@ LCD1IN8.LCD_SetBL(5)
 LCD1IN8.DisString(
 0,
 0,
-"Filipkov tahak na VLASTIVEDU ... stlac A",
+"Filipkov tahak na VLASTIVEDU - stlac A",
 LCD1IN8.Get_Color(LCD_COLOR.BLUE)
 )
 LCD1IN8.LCD_Display()
